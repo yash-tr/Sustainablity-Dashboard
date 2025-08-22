@@ -1,6 +1,6 @@
 # 🌍 Sustainability Dashboard
 
-*This is a reformatted version of the original [Sustainability Dashboard](https://github.com/ssshreya08/Sustainability-Dashboard) project.*
+
 
 A powerful **Sustainability Dashboard** to track energy, water, waste, and emissions with **real-time charts, alerts, goals, and insights**.  
 Built with **React, Node.js, Tailwind CSS, and Recharts** for a clean, responsive, and interactive experience.
